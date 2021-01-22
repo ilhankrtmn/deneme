@@ -3,11 +3,12 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-      // giris grs = new giris();
+      
+        giris grs = new giris();
 
         yardimcikodlar yar = new mesaj() {};
         System.out.println(yar.progbas());
-
+/*
         giris grs = new giris();
         urunekleme urnekle = new urunekleme();
         musteri mst = new musteri();
@@ -17,7 +18,7 @@ public class Main {
         menu2 men2 = new menu2();
         ayarlar ayar = new ayarlar();
         sifredegistir sfr = new sifredegistir();
-
+*/
 
     }
 }
